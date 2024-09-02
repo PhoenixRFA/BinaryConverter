@@ -1,1 +1,1 @@
-Convert string to bytes and bytes to string (just for fun)
+Convert string to bytes and bytes to string (just for fun).
